@@ -1,0 +1,10 @@
+.show_div {
+  background-color: rgb(237, 237, 237);
+  margin-top: 20px;
+  border-radius: 20px;
+}
+
+.img_size {
+  width: 50px;
+  border-radius: 10px;
+}
